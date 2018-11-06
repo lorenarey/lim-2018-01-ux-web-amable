@@ -105,6 +105,8 @@ habilidades blandas.
 | Comunicación eficaz                                        | 4              |
 | Presentaciones                                             | 4              |
 
+![Mockup proyecto consultora Amable](img/mockup5-proyecto-amable.jpg)
+
 ## Checklist
 - [ ] _README_ explicando el proceso del proyecto
 - [ ] Mapa de navegación
